@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/brunopinto/_dev/learnDE/data-engineering-practice'
+make: Leaving directory '/home/brunopinto/_dev/learnDE/data-engineering-practice'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
